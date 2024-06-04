@@ -1,1 +1,1 @@
-# Social-Media-Sentiment
+# Sentiment Analysis
